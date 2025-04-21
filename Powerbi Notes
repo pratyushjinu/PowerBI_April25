@@ -1,0 +1,83 @@
+What does Bi tools do?
+We can visualise the data
+Analysis
+Data is the new oil.
+Decision making
+ 
+BI tools Architecture?
+Framework
+BI Architecture refers to framework that refers to support the collection,integration,analysis and presentation of business data
+ 
+•	Data Sources-Where data originates(eg.spreadsheets,database,Web)
+•	ETL process-Extract,transform,Load process to prepare data for analysis.
+•	Data warehouse-where to store the data
+•	Tools-software for analysing data-PowerBI
+•	Presentation layer-Dashboard and reports
+ 
+ 
+ 
+ 
+Data analyst
+Responsibilities:
+•	Data cleaning
+•	Visualisation
+•	Statistical analysis
+•	Present the findings
+Skills-SQL,Excel,PowerBI,Tableau,Python,R,statistical analysis
+Data engineer:
+Responsibilities:
+•	Data pipeline-system for data collection and processing
+•	Database management-efficiency and security
+•	Data integration-combine data from various sources
+Skills-SQL,Python,R,Hadoop,spark
+
+Data scientist
+Responsibilities:
+•	Predictive modelling
+•	Data mining
+•	Test hypothesis
+•	Explain finding to stakeholders
+Skills-python,r ,sql,ml models,tensorflow
+
+Role	Key Skills
+Data Analyst	- Data Cleaning and Preparation
+	- Data Visualization (e.g., Tableau, Power BI)
+	- Statistical Analysis
+	- Excel and SQL
+	- Reporting and Dashboard Creation
+	- Basic Programming (e.g., Python, R)
+	- Business Acumen
+	- Communication Skills
+Data Scientist	- Advanced Statistical Analysis
+	- Machine Learning and AI
+	- Data Mining
+	- Programming (e.g., Python, R)
+	- Big Data Technologies (e.g., Hadoop, Spark)
+	- Data Visualization (e.g., Matplotlib, Seaborn)
+	- Deep Learning Frameworks (e.g., TensorFlow, PyTorch)
+	- Domain Expertise
+Data Engineer	- Data Pipeline Development
+	- ETL Processes (Extract, Transform, Load)
+	- Database Management (e.g., SQL, NoSQL)
+	- Big Data Technologies (e.g., Hadoop, Spark)
+	- Cloud Platforms (e.g., AWS, Azure, GCP)
+	- Programming (e.g., Python, Java, Scala)
+	- Data Warehousing (e.g., Redshift, Snowflake)
+	- Performance Optimization
+
+
+What is Powerbi?
+Powerbi Is a business analytics tool developed by Microsoft that allows users to visualise data and share insights across organisation or embed them in app or website.
+
+How To Install Powerbi??
+Go to Appstore>powerbiinstall/GET
+
+Open the Powerbi
+
+Components of Powerbi??
+1.Powerbi desktop-Creating reports and visualisations
+2.Powerbi service-Online Sharing and collaboration.
+3.Powerbi Mobile-Accessing Powerbi on mobile
+4.Powerbi Gateway-conneting with data source.
+
+
